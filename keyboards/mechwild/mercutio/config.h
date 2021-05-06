@@ -25,6 +25,7 @@
 #define DEVICE_VER      0x0100
 #define MANUFACTURER    MechWild
 #define PRODUCT         Mercutio
+#define TAPPING_TERM 200
 
 /* key matrix size */
 #define MATRIX_ROWS 7
